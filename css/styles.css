@@ -28,7 +28,7 @@ h1 {
   color:#66BFBF;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
-  font-size: 5.6rem;
+  font-size: 3.0rem;
 
 }
 h2 {
@@ -47,6 +47,8 @@ h3{
 }
 p {
   line-height: 2;
+
+  font-size: 1.8rem;
 }
 
 .middle-container{
@@ -55,8 +57,8 @@ p {
 .skills_img{
   padding: 1.25rem;
   float: left;
-  width: 10%;
-  height: 10%;
+  width: 8%;
+  height: 8%;
 }
 .skill-row{
   margin-top: 30px;
