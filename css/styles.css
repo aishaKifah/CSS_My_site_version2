@@ -12,13 +12,13 @@ body{
 }
 .top_cloud{
   position: absolute;
-  right: 18.75rem;
-  top: 12.5rem;
+  right: 10%;
+  top: 10%;
 }
 .bottom_cloud{
   position: absolute;
-  left: 18.5rem;
-  bottom: 31.25rem;
+  left: 10%;
+  bottom: 10%;
 }
 .interduce{
   width: 50%;
@@ -55,8 +55,8 @@ p {
 .skills_img{
   padding: 1.25rem;
   float: left;
-  width: 5%;
-  height: 5%;
+  width: 10%;
+  height: 10%;
 }
 .skill-row{
   margin-top: 30px;
